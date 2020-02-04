@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer Test", "Platformer Test.csproj", "{C5762549-F6FC-7472-A30A-0F287D7BE08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer Test.Editor", "Platformer Test.Editor.csproj", "{85705E81-0763-0C32-D523-FF83B99E3222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5762549-F6FC-7472-A30A-0F287D7BE08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5762549-F6FC-7472-A30A-0F287D7BE08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5762549-F6FC-7472-A30A-0F287D7BE08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5762549-F6FC-7472-A30A-0F287D7BE08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85705E81-0763-0C32-D523-FF83B99E3222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85705E81-0763-0C32-D523-FF83B99E3222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85705E81-0763-0C32-D523-FF83B99E3222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85705E81-0763-0C32-D523-FF83B99E3222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
